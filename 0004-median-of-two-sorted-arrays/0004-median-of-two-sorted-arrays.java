@@ -5,7 +5,7 @@ class Solution
         int l1 = nums1.length;
         int l2 = nums2.length;
         int[] nums3 = new int[l1+l2];
-        float median = 0.0f;
+       double median = 0.0f;
 
         for (int i=0;i<l1;i++)
         {
@@ -23,7 +23,7 @@ class Solution
         {
             int index2 = (nums3.length/2);
             int index1 = index2 - 1;
-            median = (float)(nums3[index2] + nums3[index1])/2;
+            median = (double)(nums3[index2] + nums3[index1])/2;
         }
         else 
         {
