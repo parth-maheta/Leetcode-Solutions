@@ -3,17 +3,13 @@ class Solution {
         HashSet<Character> st = new HashSet<>();
         int n = s.length();
         int count = 0;
-
-        
         for (int i = 0; i < n; i++) {
             st.add(s.charAt(i));
         }
 
      
         for (char letter : st) {
-            int left = -1, right = -1;
-
-          
+            int left = -1, right = -1;         
             for (int i = 0; i < n; i++) {
                 if (s.charAt(i) == letter) {
                     if (left == -1) {
