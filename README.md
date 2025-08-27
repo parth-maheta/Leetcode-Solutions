@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [1078-remove-outermost-parentheses](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0169-majority-element](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [3227-find-missing-and-repeated-values](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -84,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/1078-remove-outermost-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
