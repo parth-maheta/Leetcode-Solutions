@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0342-power-of-four](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0867-new-21-game](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/0867-new-21-game) |
 | [1013-fibonacci-number](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0867-new-21-game](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/0867-new-21-game) |
 | [1013-fibonacci-number](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 ## Sliding Window
@@ -97,5 +99,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
