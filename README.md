@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/0213-house-robber-ii) |
 | [0867-new-21-game](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/0867-new-21-game) |
 | [1013-fibonacci-number](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Sliding Window
 |  |
 | ------- |
@@ -147,4 +148,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+## Queue
+|  |
+| ------- |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
+## Simulation
+|  |
+| ------- |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
 <!---LeetCode Topics End-->
