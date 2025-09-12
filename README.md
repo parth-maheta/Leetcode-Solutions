@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
+| [3462-vowels-game-in-a-string](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/3462-vowels-game-in-a-string) |
 ## Array
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/1448-maximum-69-number) |
 | [3227-find-missing-and-repeated-values](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3462-vowels-game-in-a-string](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/3462-vowels-game-in-a-string) |
 | [3830-find-closest-person](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/3830-find-closest-person) |
 ## Matrix
 |  |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3462-vowels-game-in-a-string](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/3462-vowels-game-in-a-string) |
 ## Enumeration
 |  |
 | ------- |
@@ -158,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
