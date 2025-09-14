@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+| [1006-vowel-spellchecker](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/1006-vowel-spellchecker) |
 | [1078-remove-outermost-parentheses](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/0213-house-robber-ii) |
+| [1006-vowel-spellchecker](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/1006-vowel-spellchecker) |
 | [3227-find-missing-and-repeated-values](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 ## Hash Table
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [1006-vowel-spellchecker](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/1006-vowel-spellchecker) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3227-find-missing-and-repeated-values](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
