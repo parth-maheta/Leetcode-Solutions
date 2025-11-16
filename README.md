@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/0213-house-robber-ii) |
 | [1006-vowel-spellchecker](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/1018-largest-perimeter-triangle) |
+| [2058-concatenation-of-array](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/2058-concatenation-of-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 ## Hash Table
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/1642-water-bottles) |
+| [2058-concatenation-of-array](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/2058-concatenation-of-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Game Theory
