@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0044-wildcard-matching](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/0044-wildcard-matching) |
+| [0125-valid-palindrome](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [1006-vowel-spellchecker](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/1006-vowel-spellchecker) |
 | [1078-remove-outermost-parentheses](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -214,5 +215,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
