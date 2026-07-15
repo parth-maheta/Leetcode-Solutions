@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/0213-house-robber-ii) |
 | [0268-missing-number](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1006-vowel-spellchecker](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [2058-concatenation-of-array](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/2058-concatenation-of-array) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1018-largest-perimeter-triangle](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [2887-sort-vowels-in-a-string](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
 ## Counting
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0977-squares-of-a-sorted-array](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Database
 |  |
 | ------- |
