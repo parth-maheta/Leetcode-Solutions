@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/0213-house-robber-ii) |
 | [0219-contains-duplicate-ii](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0643-maximum-average-subarray-i](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0867-new-21-game](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/0867-new-21-game) |
 | [0904-fruit-into-baskets](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
