@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0904-fruit-into-baskets](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0628-maximum-product-of-three-numbers](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
