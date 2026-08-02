@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/0044-wildcard-matching) |
 | [0125-valid-palindrome](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
+| [0443-string-compression](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/0443-string-compression) |
 | [1006-vowel-spellchecker](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/1006-vowel-spellchecker) |
 | [1078-remove-outermost-parentheses](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0443-string-compression](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/0443-string-compression) |
 | [0977-squares-of-a-sorted-array](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Database
