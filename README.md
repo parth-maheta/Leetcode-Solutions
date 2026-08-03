@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-vowel-spellchecker](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1331-rank-transform-of-an-array](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1406-stone-game-iii](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2058-concatenation-of-array](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/2058-concatenation-of-array) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1013-fibonacci-number](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/1018-largest-perimeter-triangle) |
+| [1406-stone-game-iii](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/1448-maximum-69-number) |
 | [1642-water-bottles](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/1642-water-bottles) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/0867-new-21-game) |
 | [0877-stone-game](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1013-fibonacci-number](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
+| [1406-stone-game-iii](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Sliding Window
 |  |
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
 | [3462-vowels-game-in-a-string](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/3462-vowels-game-in-a-string) |
 ## Backtracking
 |  |
@@ -320,4 +324,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/1757-recyclable-and-low-fat-products) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
