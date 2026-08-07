@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2887-sort-vowels-in-a-string](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/3462-vowels-game-in-a-string) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/3462-vowels-game-in-a-string) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/1448-maximum-69-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -307,10 +310,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/0039-combination-sum) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
