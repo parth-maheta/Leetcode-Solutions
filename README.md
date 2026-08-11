@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0434-number-of-segments-in-a-string](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0443-string-compression](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/0443-string-compression) |
 | [1006-vowel-spellchecker](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/1006-vowel-spellchecker) |
 | [1078-remove-outermost-parentheses](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/1078-remove-outermost-parentheses) |
