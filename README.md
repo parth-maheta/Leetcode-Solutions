@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1140-stone-game-ii](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-vowel-spellchecker](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1331-rank-transform-of-an-array](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/0342-power-of-four) |
+| [1386-cinema-seat-allocation](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/0044-wildcard-matching) |
 | [0881-boats-to-save-people](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
 | [1018-largest-perimeter-triangle](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/1018-largest-perimeter-triangle) |
+| [1386-cinema-seat-allocation](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1448-maximum-69-number](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/1448-maximum-69-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
