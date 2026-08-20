@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/2058-concatenation-of-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3731-find-missing-elements](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/1642-water-bottles) |
 | [2058-concatenation-of-array](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/2058-concatenation-of-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Game Theory
