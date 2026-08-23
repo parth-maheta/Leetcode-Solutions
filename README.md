@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-vowel-spellchecker](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/1006-vowel-spellchecker) |
 | [1078-remove-outermost-parentheses](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1927-sum-game](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/1927-sum-game) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/1510-stone-game-iv) |
 | [1642-water-bottles](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/1642-water-bottles) |
 | [1925-count-square-sum-triples](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/1925-count-square-sum-triples) |
+| [1927-sum-game](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1386-cinema-seat-allocation](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1448-maximum-69-number](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/1448-maximum-69-number) |
+| [1927-sum-game](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -336,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/1927-sum-game) |
 | [3462-vowels-game-in-a-string](https://github.com/parth-maheta/Leetcode-Solutions/tree/master/3462-vowels-game-in-a-string) |
 ## Backtracking
 |  |
